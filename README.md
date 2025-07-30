@@ -14,16 +14,16 @@ I’m a passionate **Web Developer**, **3D Designer**, and **Coder** at **Sir Pa
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) &#124; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) &#124; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &#124; ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Backend & Tools  
-![Express.js–Basic](https://img.shields.io/badge/Express.js–Basic-lightgrey?style=for-the-badge&logo=express&logoColor=black) &#124; ![EJS–Basic](https://img.shields.io/badge/EJS–Basic-lightgrey?style=for-the-badge&logo=ejs&logoColor=white) &#124; ![SortableJS–Basic](https://img.shields.io/badge/SortableJS–Basic-lightgrey?style=for-the-badge&logo=javascript&logoColor=white) &#124; ![React–Basic](https://img.shields.io/badge/React–Basic-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Express.js–Basic](https://img.shields.io/badge/Express.js–Basic-lightgrey?style=for-the-badge&logo=express&logoColor=black) &#124; ![EJS – Basic](https://img.shields.io/badge/EJS–Basic-lightgrey?style=for-the-badge&logo=ejs&logoColor=white) &#124; ![SortableJS – Basic](https://img.shields.io/badge/SortableJS–Basic-lightgrey?style=for-the-badge&logo=javascript&logoColor=white) &#124; ![React – Basic](https://img.shields.io/badge/React–Basic-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 #### Programming Languages  
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) &#124; ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### 3D Design  
-![SketchUp–Core](https://img.shields.io/badge/SketchUp–Core-%23DA232C?style=for-the-badge&logo=sketchup&logoColor=white) &#124; ![Enscape–Learning](https://img.shields.io/badge/Enscape–Learning-%23888888?style=for-the-badge&logo=enscape&logoColor=white)
+![SketchUp–Core](https://img.shields.io/badge/SketchUp–Core-%23DA232C?style=for-the-badge&logo=sketchup&logoColor=white) &#124; ![Enscape – Learning](https://img.shields.io/badge/Enscape–Learning-%23888888?style=for-the-badge&logo=enscape&logoColor=white)
 
 #### Other Interests  
-![Cybersecurity–Basic](https://img.shields.io/badge/Cybersecurity–Basic-%23007ACC?style=for-the-badge&logo=fortinet&logoColor=white) &#124; ![3D Web Designing](https://img.shields.io/badge/3D_Web_Designing-%23E34F26?style=for-the-badge)
+![Cybersecurity – Basic](https://img.shields.io/badge/Cybersecurity–Basic-%23007ACC?style=for-the-badge&logo=fortinet&logoColor=white) &#124; ![3D Web Designing - Basic](https://img.shields.io/badge/3D_Web_Designing-%23E34F26?style=for-the-badge)
 
 </div>
 
