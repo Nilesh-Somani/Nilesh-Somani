@@ -13,115 +13,107 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
+
+## 👋 Hi, I’m Nilesh Somani
 
 I’m a passionate **Web Developer**, **3D Designer**, and **Coder** at **Sir Padampat Singhania University**, where I blend creativity with functionality in every project.
 
 ---
 
-### 🧑‍💻 Tech Skills (visuals use local icons)
+### 🧑‍💻 Tech Skills
 
 <div align="center">
 
-**Web Development**  
-<img src="./assets/icons/html5.png" alt="HTML5" width="36" /> &nbsp;
-<img src="./assets/icons/css3.png" alt="CSS3" width="36" /> &nbsp;
-<img src="./assets/icons/javascript.png" alt="JavaScript" width="36" /> &nbsp;
-<img src="./assets/icons/nodejs.png" alt="Node.js" width="36" />
+#### Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) &#124; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) &#124; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &#124; ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br/><br/>
+#### Backend & Tools  
+![Express.js–Basic](https://img.shields.io/badge/Express.js–Basic-lightgrey?style=for-the-badge&logo=express&logoColor=black) &#124; ![EJS – Basic](https://img.shields.io/badge/EJS–Basic-lightgrey?style=for-the-badge&logo=ejs&logoColor=white) &#124; ![SortableJS – Basic](https://img.shields.io/badge/SortableJS–Basic-lightgrey?style=for-the-badge&logo=javascript&logoColor=white) &#124; ![React – Basic](https://img.shields.io/badge/React–Basic-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-**Backend & Tools**  
-<img src="./assets/icons/express.png" alt="Express" width="36" /> &nbsp;
-<img src="./assets/icons/ejs.png" alt="EJS" width="36" /> &nbsp;
-<img src="./assets/icons/sortablejs.png" alt="SortableJS" width="36" /> &nbsp;
-<img src="./assets/icons/react.png" alt="React" width="36" />
+#### Programming Languages  
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) &#124; ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<br/><br/>
+#### 3D Design  
+![SketchUp–Core](https://img.shields.io/badge/SketchUp–Core-%23DA232C?style=for-the-badge&logo=sketchup&logoColor=white) &#124; ![Enscape – Learning](https://img.shields.io/badge/Enscape–Learning-%23888888?style=for-the-badge&logo=enscape&logoColor=white)
 
-**Programming Languages**  
-<img src="./assets/icons/c.png" alt="C" width="36" /> &nbsp;
-<img src="./assets/icons/cpp.png" alt="C++" width="36" />
-
-<br/><br/>
-
-**3D Design**  
-<img src="./assets/icons/sketchup.png" alt="SketchUp" width="36" /> &nbsp;
-<img src="./assets/icons/enscape.png" alt="Enscape" width="36" />
-
-<br/><br/>
-
-**Other Interests**  
-<img src="./assets/icons/cybersecurity.png" alt="Cybersecurity" width="36" /> &nbsp;
-<img src="./assets/icons/3dweb.png" alt="3D Web" width="36" />
+#### Other Interests  
+![Cybersecurity – Basic](https://img.shields.io/badge/Cybersecurity–Basic-%23007ACC?style=for-the-badge&logo=fortinet&logoColor=white) &#124; ![3D Web Designing - Basic](https://img.shields.io/badge/3D_Web_Designing-%23E34F26?style=for-the-badge)
 
 </div>
 
 ---
+
+<div align="center">
 
 ### 🎮 Social & Gaming Accounts
-<div align="center">
-<a href="https://store.epicgames.com/u/9c768022b6524f65b69008a6cc5e3277"><img src="./assets/icons/epicgames.png" alt="Epic" width="120"/></a>
-&nbsp;
-<a href="https://steamcommunity.com/id/nileshsomani/"><img src="./assets/icons/steam.png" alt="Steam" width="120"/></a>
-&nbsp;
-<a href="https://www.xbox.com/en-IN/play/user/MasterNilesh5"><img src="./assets/icons/xbox.png" alt="Xbox" width="120"/></a>
-&nbsp;
-<a href="https://twitch.tv/nileshsomani"><img src="./assets/icons/twitch.png" alt="Twitch" width="120"/></a>
-&nbsp;
-<a href="https://discord.gg/g8GEbGej"><img src="./assets/icons/discord.png" alt="Discord" width="120"/></a>
+[![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/9c768022b6524f65b69008a6cc5e3277) &#124; [![Steam](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/nileshsomani/) &#124; [![Xbox](https://img.shields.io/badge/Xbox-%23107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/MasterNilesh5) &#124; [![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/nileshsomani) &#124; [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/g8GEbGej)
+
 </div>
 
 ---
 
-### 🌐 Connect With Me
 <div align="center">
-<a href="https://instagram.com/mastersomani"><img src="./assets/icons/instagram.png" alt="Instagram" width="120"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/nileshsomani"><img src="./assets/icons/linkedin.png" alt="LinkedIn" width="120"/></a>
-&nbsp;
-<a href="https://youtube.com/@nileshsomani"><img src="./assets/icons/youtube.png" alt="YouTube" width="120"/></a>
-&nbsp;
-<a href="mailto:somanin408@gmail.com"><img src="./assets/icons/email.png" alt="Email" width="120"/></a>
+
+### 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mastersomani) &#124;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nileshsomani) &#124;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nileshsomani) &#124;
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somanin408@gmail.com)
+
 </div>
 
 ---
 
 ### 🚀 Projects I’m Working On
+
 - 📱 **QR-Based Attendance System**
 - 💬 **Social Verse – A Chatting App**
 - 🎮 **Canvas + JavaScript Educational Game**
 
-> These project names come from `data/projects.js` in the repo. See "Dynamic values" section below.
-
 ---
 
 ### 🌱 Currently Learning
-- SketchUp + Enscape Rendering  
-- Advanced React  
+
+- SketchUp + Enscape Rendering
+- Advanced React
 - 3D Web Experiences
 
 ---
 
-# 📊 GitHub Stats (LOCAL GENERATED SVGs)
+# 📊 GitHub Stats
 
-> The images below are generated in-repo (by the `./.github/workflows/generate-readme.yml` action). They are saved to `/assets/generated/` so README does not hotlink external images.
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 1rem;">
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
-  <!-- generated images should be placed by CI / script into assets/generated/ -->
-  <img src="./assets/generated/top-langs.svg" alt="Top Languages" width="420" />
-  <img src="./assets/generated/streak.svg" alt="Streak" width="420" />
-  <img src="./assets/generated/overview.svg" alt="Overview" width="420" />
+<!-- GitHub Overview -->
+<!-- <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
+   <img width="500" src="https://github-readme-stats.vercel.app/api?username=Nilesh-Somani&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats" />
+ </div> -->
+
+<!-- Streak -->
+<!-- <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
+   <img width="500" src="https://nirzak-streak-stats.vercel.app/?user=Nilesh-Somani&theme=dark&show_icon=true&hide_border=false&layout=compact" alt="GitHub Streak" />
+ </div> -->
+
+<!-- Top Languages -->
+<div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Somani&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
----
+</div>
 
-## 🏆 GitHub Trophies (local)
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="./assets/generated/trophies.svg" alt="Trophies" width="640" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh-Somani&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
 </p>
 
+<!-- ### 🔝 Top Contributed Repo
+
+<p align="center">
+ <img src="https://github-contributor-stats.vercel.app/api?username=Nilesh-Somani&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+-->
 ---
 
-<!-- Optional visitor counter (local badge or generated) -->
-[![Visits](./assets/generated/visits.svg)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nilesh-Somani&icon=0&color=0)](https://visitcount.itsvg.in)
