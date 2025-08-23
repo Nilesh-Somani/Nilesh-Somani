@@ -1,18 +1,3 @@
-<!-- README.md (Nilesh-Somani) 
-     Theme: Dark / cyan, “game” vocabulary to match App.jsx 
-     NOTE: all images are local files inside /assets/icons/ or /assets/generated/
--->
-
-<!-- HERO (local avatar) -->
-<p align="center">
-  <img src="./assets/icons/profile.png" alt="Avatar" width="160" style="border-radius:50%;" />
-</p>
-
-<h1 align="center">🎮 Nilesh Somani — Developer Portfolio (DEV.EXE)</h1>
-<p align="center">Full Stack Developer • 3D Designer • Game Enthusiast</p>
-
----
-
 # 💫 About Me
 
 ## 👋 Hi, I’m Nilesh Somani
