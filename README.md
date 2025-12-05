@@ -71,14 +71,14 @@ I’m a passionate **Web Developer**, **3D Designer**, and **Coder** at **Sir Pa
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 1rem;">
 
 <!-- GitHub Overview -->
-<!-- <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
+<div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
    <img width="500" src="https://github-readme-stats.vercel.app/api?username=Nilesh-Somani&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats" />
- </div> -->
+ </div>
 
 <!-- Streak -->
-<!-- <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
+<div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
    <img width="500" src="https://nirzak-streak-stats.vercel.app/?user=Nilesh-Somani&theme=dark&show_icon=true&hide_border=false&layout=compact" alt="GitHub Streak" />
- </div> -->
+ </div>
 
 <!-- Top Languages -->
 <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
@@ -93,12 +93,12 @@ I’m a passionate **Web Developer**, **3D Designer**, and **Coder** at **Sir Pa
 <img src="https://github-profile-trophy.vercel.app/?username=Nilesh-Somani&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
 </p>
 
-<!-- ### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 
 <p align="center">
  <img src="https://github-contributor-stats.vercel.app/api?username=Nilesh-Somani&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
--->
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Nilesh-Somani&icon=0&color=0)](https://visitcount.itsvg.in)
