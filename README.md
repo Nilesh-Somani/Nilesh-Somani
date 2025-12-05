@@ -72,18 +72,21 @@ I’m a passionate **Web Developer**, **3D Designer**, and **Coder** at **Sir Pa
 
 <!-- GitHub Overview -->
 <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
-   <img width="500" src="https://github-readme-stats.vercel.app/api?username=Nilesh-Somani&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats" />
+   <img width="500" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Nilesh-Somani&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats" />
  </div>
+ <!-- https://github-readme-stats-git-main-axelrindle.vercel.app/api?username=Nilesh-Somani&theme=dark&show_icons=true&hide_border=false&layout=compact -->
 
 <!-- Streak -->
 <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
    <img width="500" src="https://nirzak-streak-stats.vercel.app/?user=Nilesh-Somani&theme=dark&show_icon=true&hide_border=false&layout=compact" alt="GitHub Streak" />
  </div>
+ <!-- https://streak-stats.demolab.com/?user=Nilesh-Somani&theme=dark&show_icon=true&hide_border=false&layout=compact -->
 
 <!-- Top Languages -->
 <div align="center" style="background:#0d1117; padding:1.5rem; border-radius:1rem; box-shadow:0 0 15px rgba(0,0,0,0.7);">
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Somani&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+<img width="500" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Nilesh-Somani&theme=dark&layout=compact" alt="Top Languages" />
 </div>
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Somani&theme=dark&hide_border=false&layout=compact -->
 
 </div>
 
@@ -98,6 +101,7 @@ I’m a passionate **Web Developer**, **3D Designer**, and **Coder** at **Sir Pa
 <p align="center">
  <img src="https://github-contributor-stats.vercel.app/api?username=Nilesh-Somani&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
+<!-- https://github-contributor-stats-git-main-axelrindle.vercel.app/api?username=Nilesh-Somani&theme=dark&combine_all_yearly_contributions=true -->
 
 ---
 
