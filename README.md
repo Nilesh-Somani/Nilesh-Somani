@@ -105,4 +105,4 @@ I’m a passionate **Web Developer**, **3D Designer**, and **Coder** at **Sir Pa
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Nilesh-Somani&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=Nilesh-Somani&color=blue&style=flat)
